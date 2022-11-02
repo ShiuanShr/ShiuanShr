@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo Shr</h1>
-<h3 align="center">A passionate data engineer,ex-data scientist.</h3>
+<h3 align="center">A passionate data engineer, ex-data scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiuanshr&label=Profile%20views&color=0e75b6&style=flat" alt="shiuanshr" /> </p>
 
