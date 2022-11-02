@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shiuanshr](https://medium.com/@shiuanshr)
 
-- 💬 Ask me about **massive data intensiive system design**
+- 💬 Ask me about **massive data intensive system design**
 
 - 📫 How to reach me **leo.shr@iss.nthu.edu.tw**
 
